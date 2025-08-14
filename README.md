@@ -7,7 +7,7 @@ I'm a Business Intelligence student upskilling at TripleTen Bootcamp—diving de
 
 I've been working for over three years in fast-paced restaurant and hospitality roles, where I mastered crisis management, clear communication, multitasking, and remaining calm under pressure. These experiences now anchor my approach to data: empathetic, precise, and solution-oriented.
 
-I’m multilingual (Portuguese, English, Spanish) and bring a global perspective to my work. I enjoy translating raw data into strategic insights!
+I’m multilingual (English, Spanish, Portuguese) and bring a global perspective to my work. I enjoy translating raw data into strategic insights!
 
 Feel free to contact me on Github or Linkedin!</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1dBJ_pERUbVdi5qTbJ5Ge_Zur-EjQYISbHRfjjC_vHFo/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
